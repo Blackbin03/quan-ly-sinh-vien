@@ -27,5 +27,6 @@ Bảng danh sách sinh viên (Bootstrap table-striped, table-hover).
 
 Form thêm/sửa với form-control.
 
-Footer đơn giản ở cuối trang.
+Footer đơn giản ở cuối trang.<img width="1912" height="581" alt="image" src="https://github.com/user-attachments/assets/8070c0ec-f577-45fb-9990-8ac744e1b2c1" />
+
 
